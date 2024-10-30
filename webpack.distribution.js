@@ -37,11 +37,11 @@ module.exports = {
                     from: 'index.html',
                     context: 'src/'
                 },
-                {
-                    // every file inside src/assets folder
-                    from: 'assets/*',
-                    context: 'src/'
-                }
+                // {
+                //     // every file inside src/assets folder
+                //     from: 'assets/*',
+                //     context: 'src/'
+                // }
             ]
         })
     ],
